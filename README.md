@@ -1,16 +1,30 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мій перший сайт</title>
+</head>
+<body>
 
-<!--
-**ArMid0/ArMid0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Заголовок -->
+<h1>Вітаю на моєму сайті!</h1>
 
-Here are some ideas to get you started:
+<!-- Абзац тексту -->
+<p>Це приклад простої HTML-сторінки.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Посилання -->
+<a href="https://gptonline.ai/ru/" target="_blank">Дізнатися більше</a>
+
+<!-- Зображення -->
+<img src="https://via.placeholder.com/150" alt="Приклад зображення">
+
+<!-- Список -->
+<ul>
+    <li>Пункт 1</li>
+    <li>Пункт 2</li>
+    <li>Пункт 3</li>
+</ul>
+
+</body>
+</html>
